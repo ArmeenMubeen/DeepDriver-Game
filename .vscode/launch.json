@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SubmarineGame",
+            "request": "launch",
+            "mainClass": "SubmarineGame",
+            "projectName": "GAME_1d5b361d"
+        },
+        {
+            "type": "java",
+            "name": "SubmarineGame",
+            "request": "launch",
+            "mainClass": "SubmarineGame",
+            "projectName": "FlappyBird - Copy_a97459e4"
+        },
+        {
+            "type": "java",
+            "name": "SubmarineGame",
+            "request": "launch",
+            "mainClass": "SubmarineGame",
+            "projectName": "FlappyBird - Copy_acaaf566"
+        },
+        {
+            "type": "java",
+            "name": "FlappyBird",
+            "request": "launch",
+            "mainClass": "FlappyBird",
+            "projectName": "FlappyBird_b50f9022"
+        }
+    ]
+}
